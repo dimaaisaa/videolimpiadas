@@ -1,0 +1,39 @@
+body {
+color: indigo;
+background: black;
+margin: 0px;
+font-family: "Kanit", sans-serif;
+}
+
+header {
+    border-bottom: solid 3px indigo;
+    padding: 30px;
+    font-size: 36px;
+    color: indigo;
+}
+section {
+    background: whitesmoke;
+    display: flex;
+    justify-content: center;
+    }
+    .chamada-texto {
+        margin-right: 5%;
+    }
+    h1 {
+        font-size: 35px;
+    }
+    header {
+font-size: 40px;
+    }
+    p {
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 40px;
+    }
+    .categoria-videos {
+        display: flex;
+        overflow: auto;
+        gap: 10px;
+    }
+    
